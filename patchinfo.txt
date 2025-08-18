@@ -54,7 +54,7 @@ DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MonsterScript.edf dc1e2558ec6d19cc6e356b954ecd8528a3dc6686
 DataTable\en-gb\NDCharacter.edf 4b305f7f47c290cce30b39a33e50255733d80371
 DataTable\en-gb\NDEventShip.edf 7eff9a51b35bf41d690954259e9158338c539b11
-DataTable\en-gb\NDItem.edf c61a13f9b7592bd6284260e1bbbca8a47ff0a7c5
+DataTable\en-gb\NDItem.edf 485ce6be59ebc1b4b2a1e518a7c854065b2c4dcd
 DataTable\en-gb\NDItemCash.edf 2c77b01e15a61f93c6fe75ba213e898ae8b8f7bf
 DataTable\en-gb\NDLanguage.edf d89ca2364f4828e8ae1a59be74afbcff03adb2b7
 DataTable\en-gb\NDMap.edf 4b185ea2614196e50d49bed2a93e7003cbc042f9
@@ -80,7 +80,7 @@ DataTable\Exp.edf 86a8a3ffe06fa3f1d5203b5fec098a7d8886ec70
 DataTable\GameData.edf 63256103d0ff4949415a31420208bd4b033a7c0a
 DataTable\Hint.edf f27049d393fdfca7fb5c4617499edf060341958a
 DataTable\Ipa.dic 726a9b312007cb53345bd8cc82151fd71980249b
-DataTable\Item.edf ae0b503422f629c10ecacaa95162d2856fdf7a4d
+DataTable\Item.edf 0d97d75ac8d152144fa49f6d48d9cf964f89bd09
 DataTable\ItemCash.edf fd1508f9aa186991c3777ea09570cfe2e805e176
 DataTable\ItemCombine.edf 85d583697445e2f7ea8ed9dae817bc44a1e94a9a
 DataTable\ItemPremium.edf 018d7983c0cb587e8202ade491217a6608acb2e6
@@ -98,7 +98,7 @@ DataTable\MsgEvent.edf 217a57da43eed83a5e9c9bcf53b245722fd749db
 DataTable\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\PlayerCharacter.edf 3b6c948ee63da91e672555fbd20595259752fdf2
 DataTable\Quest.edf 21864cf1c5a6cabadc3a56a2c0fe1f24c41085d3
-DataTable\Resource.edf c08dbbca126a5d6e9f12f146ce68383f3218219b
+DataTable\Resource.edf 23da58fa2394e96ce120b8e26dac8c2bf4d466fe
 DataTable\RF_AVI.dat e002d87ceca4ab166fa1b3228306a86f8c8f09e1
 DataTable\RF_URL.dat 8726e9cbb8100ba1c0132cde9b442032856850a8
 DataTable\SetItemEffect.edf b5edd6209b8ef932192f3b74d1454bc49b91310a
