@@ -66,7 +66,6 @@ DataTable\en-gb\NDStore.edf a9a21037b5ebe002b312b95584a0df1ba21d2bc9
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\Quest.edf afeafb659a462f1bd37e6df0641396e874440323
-DataTable\en-gb\Resource.edf fa49b1b59e9cb6db84052fe0d916e9f4fcef2dc5
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
 DataTable\en-gb\SetItemEffect.edf 1aa666da25de17a33ed5301f75fd8765fd96d269
 DataTable\en-gb\SkillForce.edf d710fd319d19ca28034497b597dfa3b7df28ae9d
