@@ -10,7 +10,7 @@ DataTable\bw.scp b2f44bc741a12969549e71c293959a92ed8d72e4
 DataTable\CashShop.edf b39c4f7734c410941be53b3af75bcd74f43d45e0
 DataTable\CcrLogo.dat 825118793da7a93cad92cfcfb1466501d0ac7090
 DataTable\cf.scp 5c2d917591b726d5a2e49b32185caad8507c29be
-DataTable\Character.edf 29fc2774d4da265d07861d2c188a0e8200eace42
+DataTable\Character.edf e0b8d903a3f23253b50abe5ab03285a295e7ac18
 DataTable\cr.scp 9dccc1080455c73883a99f0de3a03fb872e8a36e
 DataTable\cryp.dat 559db677ffe07bb263bd392bd3be63d1887d8883
 DataTable\cs.scp 412b11b54f4929a2c52d7d21ab80f995113c0c07
@@ -52,7 +52,7 @@ DataTable\en-gb\LauncherMessage.ini b8cf9880a938ff4cb94b98ac9a42d65756b6ecd9
 DataTable\en-gb\Map.edf f902ee82dd90c78af853022d5e2d365a2352e011
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MonsterScript.edf dc1e2558ec6d19cc6e356b954ecd8528a3dc6686
-DataTable\en-gb\NDCharacter.edf 264635b43fcd06e1614d5839934e64263c8a04ad
+DataTable\en-gb\NDCharacter.edf 2a07053f00954cc72f1e497452359c4b7bdce23e
 DataTable\en-gb\NDEventShip.edf a6c8f9b33b9f93b2328d9f4bd9e835501640f0ac
 DataTable\en-gb\NDItem.edf e6a1708114397688c2fd01f91bd77a20ef91e5e3
 DataTable\en-gb\NDItemCash.edf dba8f1c5c5c0ec22e8be03c4f0bda2041de532eb
