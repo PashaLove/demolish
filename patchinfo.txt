@@ -30,7 +30,7 @@ Snooper\font.ini 671de0b4546df8f9d39104338cd26176bd32259d
 Snooper\mod\7daylogin.ini 0dec587343f0ed41c14c78896439939592572ca9
 Snooper\mod\aura.ini 000c92d9b1c3e4890446ca1d56d54ddc74b74b08
 Snooper\mod\boss_schedule.ini 7ae8a69d3d637e122156c7103a6d05e451b02f5f
-Snooper\mod\broadcast.ini cdb7bbd192546b5a66fc234e4252f9922879a830
+Snooper\mod\broadcast.ini 823e15f2170022128ec07d91947fa286a5088493
 Snooper\mod\buffer.ini af9d9abb23203ab6a8c001d3385d4b0e0c3c9746
 Snooper\mod\cashpoint.ini 5b117ae7855428ad7fdb5cbc21354944820a9c9b
 Snooper\mod\deathscreen.ini 0e04d46e6f7db58fb8936d35c441bf61f13a10dc
