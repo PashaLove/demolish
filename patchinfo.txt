@@ -125,7 +125,7 @@ Character\Monster\Ani\YZMONA.RFS cfa7f66dee649e89a7dd4bbaf8bd678f98a07c62
 DataTable\Character.edf 61a58d2ee43dd2e8d50e4f72c9390b69ea4a49a3
 DataTable\en-gb\NDCharacter.edf a722221b92dc6cae229a40a462a6bea854536806
 DataTable\en-gb\NDEventShip.edf b3400ce705610bcfc32870be6075b5e7834dbbd8
-DataTable\en-gb\NDItem.edf 4dbc352887f6e4b66c391e21a8a1916ed64925e1
+DataTable\en-gb\NDItem.edf f60c9621de07fe7b11b69775edafdf077d7b897f
 DataTable\en-gb\NDItemCash.edf 22e2885d7fc3ec0b7c14cacccd6ccd97ec049636
 DataTable\en-gb\NDLanguage.edf db37f7aca87d51c6d5e574f38aee2f2548239a76
 DataTable\en-gb\NDMap.edf ac2500d814395ec4dbe323bf4639d6428b500253
@@ -135,9 +135,9 @@ DataTable\en-gb\NDQuest.edf 2e4d73142330baf8a28ea50be2ea023b9dce2706
 DataTable\en-gb\NDSkillForce.edf 99d75a9a6ed8d028a7add3dd8c573fefe98de984
 DataTable\en-gb\NDStore.edf 9c6156c11c3d016b8ad6d64e61e4478ba63c3e36
 DataTable\EventShip.edf 23b8fbfb621fbb322352f2900aa12b9e31f3080f
-DataTable\Item.edf 2fb6308b83e0e487a1b253929e2d272ca2cb3761
+DataTable\Item.edf aced1d3c9d1c85173633b8ef8e07dd28f73b57b2
 DataTable\ItemCash.edf 33a56831f09e85558032cc7955068f480636646f
-DataTable\ItemCombine.edf e1a024a96e629d12522e804f54c4463b7d657fef
+DataTable\ItemCombine.edf 099b896a68e200079caf4c3cae4e4eaece1c9420
 DataTable\ItemPremium.edf a701db494fe11a2fced38d0fb558b89987d0f6fe
 DataTable\ItemSetEffect.edf 1a68ea479a329c8022a174c63b469d98613ed061
 DataTable\ItemTimer.edf 6cd5b96bab863171051ee690c480cbe74674e3aa
