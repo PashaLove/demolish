@@ -180,5 +180,6 @@ Snooper\mod\ui_pos.ini 3930ee0abc69cfbefe10bcb6bd07fa955df825e0
 Snooper\mod\unmannedtrader.ini dc51a7cd004e2183d5a28f21db0fd41518e0eb65
 Snooper\pkg\direct3d9.pkg d5c67b6da61b5774f1f51acd5dcb24e33df20c28
 Snooper\readme.txt 11a50a9b6b0c556acd0a6c4114af37e30d0ee14e
+SpriteImage\common\emblem.spr 4f0a3a10709e585abf64750e83835d0858ca2335
 SpriteImage\common\item.spr ccbea38b5dc961508271a2342bcf94317de8461c
 zip.dll 783075cad3fd0c0a07563dd577019ffbbce65068
