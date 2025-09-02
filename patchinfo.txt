@@ -122,7 +122,7 @@ Character\Monster\Ani\UVMONA.RFS 1c27271b89976530760d508114780b1de6d4e0a7
 Character\Monster\Ani\WARFAREA.RFS 193969032bdb9fa176d22f489cc1960a1c42dbad
 Character\Monster\Ani\WXMONA.RFS 363246c6f23e53521f2b1974604b8da1d3dea849
 Character\Monster\Ani\YZMONA.RFS cfa7f66dee649e89a7dd4bbaf8bd678f98a07c62
-DataTable\Character.edf ef087d1d830e13a337bfa51057530682e99b21f5
+DataTable\Character.edf 96fecb33a5eaeee033b4512a82a73f5feb4fd06a
 DataTable\en-gb\NDCharacter.edf eb3815f8a7d7f2cc6631f15cba142ed7fe6dba03
 DataTable\en-gb\NDEventShip.edf b3400ce705610bcfc32870be6075b5e7834dbbd8
 DataTable\en-gb\NDItem.edf ecc3c81f8eb65f6b9478338bda95f95fcb1a2deb
