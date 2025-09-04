@@ -575,7 +575,7 @@ Chef\siege.ini b4cc3d92bdcb0e4ff570de58194d85df1879c17a
 DataTable\Character.edf 96fecb33a5eaeee033b4512a82a73f5feb4fd06a
 DataTable\en-gb\NDCharacter.edf eb3815f8a7d7f2cc6631f15cba142ed7fe6dba03
 DataTable\en-gb\NDEventShip.edf b3400ce705610bcfc32870be6075b5e7834dbbd8
-DataTable\en-gb\NDItem.edf 88f0d32190eb3f104c594efead31c039f94b4923
+DataTable\en-gb\NDItem.edf c3807c1103ce6b6df712079e74d75f8d3b041366
 DataTable\en-gb\NDItemCash.edf 22e2885d7fc3ec0b7c14cacccd6ccd97ec049636
 DataTable\en-gb\NDLanguage.edf db37f7aca87d51c6d5e574f38aee2f2548239a76
 DataTable\en-gb\NDMap.edf ac2500d814395ec4dbe323bf4639d6428b500253
@@ -585,7 +585,7 @@ DataTable\en-gb\NDQuest.edf 2e4d73142330baf8a28ea50be2ea023b9dce2706
 DataTable\en-gb\NDSkillForce.edf f4f38edd7be8503f435b7510dc67933361fc7de7
 DataTable\en-gb\NDStore.edf 2b0366c386e5153c4b1de6618c8352e926be2bd8
 DataTable\EventShip.edf 23b8fbfb621fbb322352f2900aa12b9e31f3080f
-DataTable\Item.edf f5e6d9e692a21e42216c94e577b860d8a21648ef
+DataTable\Item.edf 8906740415b4c4d8d8ca52dd8a2ddb496cfbb394
 DataTable\ItemCash.edf 33a56831f09e85558032cc7955068f480636646f
 DataTable\ItemCombine.edf 099b896a68e200079caf4c3cae4e4eaece1c9420
 DataTable\ItemPremium.edf a701db494fe11a2fced38d0fb558b89987d0f6fe
@@ -595,7 +595,7 @@ DataTable\Map.edf 71dfc257c4b9a720fb3b739e2bf2036672ce0397
 DataTable\MsgEvent.edf 487acd1ebffba1e77d4c1ba35406c30396037cd5
 DataTable\PlayerCharacter.edf 9a49f2fea0e2b4546a0052f4326f4ab9679ee26b
 DataTable\Quest.edf a89af4a2781c60988040e682f151ca40f4cbc9ee
-DataTable\Resource.edf e16f865920687b7381b0f5191d4e8b71ac796956
+DataTable\Resource.edf 815df718cc8d65a82fda21b3ffa784845ad4ee66
 DataTable\SkillForce.edf bc39138316366d84abb9797a0643aa023cf27fef
 DataTable\Store.edf d669922c7d8b089e00c92466e06724d30690f6f1
 dbghelp.dll f456904ad49e4a6cb8e60d2998ba167b115ac8a1
